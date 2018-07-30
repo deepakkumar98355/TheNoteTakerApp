@@ -51,4 +51,7 @@ passport.use(new LocalStrategy(
 
 * Soon will enhance with chat support using socket.io 
 
+##Change Log V1.1
+
+* Deployed on GCP https://hanthenotetaker.appspot.com/
 
